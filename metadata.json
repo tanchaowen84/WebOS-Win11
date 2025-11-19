@@ -1,0 +1,8 @@
+{
+  "name": "WebOS - Windows 11 Style",
+  "description": "A fully functional, aesthetically pleasing Web Operating System with file management, terminal, code editing, painting, and Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
